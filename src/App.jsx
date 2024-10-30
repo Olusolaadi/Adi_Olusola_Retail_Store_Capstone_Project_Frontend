@@ -4,7 +4,7 @@ import SignUpPage from "./pages/SignUpPage";
 import LogInPage from "./pages/LogInPage";
 import ProductsPage from "./pages/ProductsPage";
 import CartPage from "./pages/CartPage";
-
+import Joke from "./components/Joke";
 import Nav from "./components/Nav";
 
 function App() {
@@ -21,6 +21,7 @@ function App() {
         <Route path="/products" element={<ProductsPage />} />
         <Route path="/cart" element={<CartPage />} />
       </Routes>
+      <Joke />
       </div>
     </div>
     </div>
