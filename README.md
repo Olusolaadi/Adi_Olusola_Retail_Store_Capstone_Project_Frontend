@@ -1,4 +1,4 @@
-# frontend
+# Capstone Frontend Ecommerce Project
 Welcome to the frontend of my e-commerce store!
 
 This React.js-powered interface seamlessly integrates with the backend to bring you an optimized shopping experience. From browsing collections to managing your cart, everything is designed with ease and efficiency in mind. Explore the latest products, and enjoy the functionality and design crafted just for you.
